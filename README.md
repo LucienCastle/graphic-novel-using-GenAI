@@ -20,7 +20,7 @@ The success of the project will be measured based on several factors, including 
 
 ### 5. What work is expected every week?
 
-- Conduct research on selected video game narratives and identify key elements for adaptation.
+- Research selected video game narratives and identify key elements for adaptation.
 - Experiment with generative AI tools to create initial drafts of the graphic novel panels.
 - Collaborate with AI models to refine the visual storytelling and enhance the narrative coherence.
 - Develop tutorials showcasing the process of creating the graphic novel using generative AI, including step-by-step instructions and insights into creative decision-making.
@@ -40,7 +40,7 @@ Graphic Novel of Kratos from God of War.
 ![panel-1](https://github.com/LucienCastle/graphic-novel-using-GenAI/assets/47452095/e2322bcd-0a74-4cde-8d51-ca5f1ff95402)
 
 
-Check all the panels in `sample-works` directory. Find prompts in the `prompts-stable-diffusion-XL` and `prompts-midjourney` directories.
+Check all the panels in the `sample-works` directory. Find prompts in the `prompts-stable-diffusion-XL` and `prompts-midjourney` directories.
 
 ## Tutorials
 
@@ -49,3 +49,8 @@ Please refer to the tutorials folder for step-by-step guides/prompts and insight
 ## Acknowledgments
 
 This project is made possible with the support of playground.ai, Midhourney.
+
+## Future Works
+
+- [ ] Connect the panels by writing the story happening between the panels
+- [ ] Add text bubbles for any dialogue
